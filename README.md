@@ -1,3 +1,9 @@
+# Maria Irina Niculescu
+
+Software engineer with a proven ability to both self-starting and collaborative environments while staying focused on
+achieving high quality results. I am passionate about writing clean, maintainable code and am eager to contribute my
+technical skills and proactive mindset to an innovative development team.
+
 <!--
 ## Hi there 👋
 **maria-irina-7/maria-irina-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
